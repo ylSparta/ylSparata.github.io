@@ -1,11 +1,7 @@
 <h1>Yanga Lomuro</h1>
 <nav background: #ccc>
 <ul>
-  <li>
-    <a href="#">London</a>
-    <a href="#">Paris</a>
-    <a href="#">Tokyo</a>
-  </li>
+  <a href="contact-us">Contact Page</a>
 </ul> 
 </nav>
 <body>
