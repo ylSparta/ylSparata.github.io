@@ -1,9 +1,7 @@
 <h1>Yanga Lomuro</h1>
-<nav background: #ccc>
 <ul>
-  <a href="contact-us">Contact Page</a>
+  <a href="contact-us.md">Contact Page</a>
 </ul> 
-</nav>
 <body>
   Hello, my name is Yanga Lomuro. Last year I graduated with a degree in Bsc Mathematics and looking to find a future in tech.
   To become a higly competent coder, for the world of tech is getting bigger by the day and would like to play my part. Apart from my career aspirations 
