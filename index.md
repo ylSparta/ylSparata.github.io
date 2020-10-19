@@ -3,10 +3,8 @@
   <a href="contact-us.md">Contact Page</a>
 </ul> 
 <body>
-  Hello, my name is Yanga Lomuro. Last year I graduated with a degree in Bsc Mathematics and looking to find a future in tech.
-  To become a higly competent coder, for the world of tech is getting bigger by the day and would like to play my part. Apart from my career aspirations 
-  I am an ethusiast of all football , ususally . A 
-  lover of the beautioful game that is football, you may see may try to ping a pass across the length of the pitch or trying to hike across nature. I have 
-  been apart of camping events and their typical day to day running. 
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, 
+  nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, 
+  aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
 </body>
 
