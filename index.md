@@ -1,4 +1,6 @@
-<h1>Yanga Lomuro</h1>
+<header>
+  <h1>Yanga Lomuro</h1>
+</header>
 <ul>
   <a href="contact-us.md">Contact Page</a>
 </ul> 
