@@ -9,21 +9,21 @@
   <div>
     <ul>
     <a href="#">
-    LinkedIn
+    LinkedIn <img src="linkedin.png" alt="Italian Trulli">
     </a>
     </ul>
   </div>
   <div>
     <ul>
       <a href="#">
-       Facebook
+       Facebook <img src="NicePng_fb-icon-png_4482584.png" alt="Italian Trulli">
       <a>
     </ul>
   </div>
   <div>
     <ul>
       <a href="#">
-      Twitter
+      Twitter <img src="iconfinder_twitter_circle_294709.png" alt="Italian Trulli">
       </a>
     </ul>
   </div>
